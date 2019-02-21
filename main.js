@@ -15,6 +15,6 @@ const insertionSort = (array) => {
     }
 
     return array;
-}
+};
 
 console.log(insertionSort(a));
